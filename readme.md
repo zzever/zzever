@@ -20,7 +20,6 @@ Userscripts (`.user.js`) para navegador web con complemento del tipo: Userscript
 | [framextv.user.js](framextv.user.js) | Reproductor incrustado de framextv
 | [tmdb-vidcore-movie.user.js](tmdb-vidcore-movie.user.js) | Reproductor incrustado de Peliculas vidcore
 | [tmdb-vidcore-tvshows.user.js](tmdb-vidcore-tvshows.user.js) | Reproductor  incrustado de Series vidcore
-[Context Vault](https://context-vault-afwd0x-preview.freebuff.site) | CUADERNO DE NOTAS enriquecido y vinculado a agentes de ia para contexto recuperable.
 SÓLO iOS
 | [google-maps-apple-maps.user.js](google-maps-apple-maps.user.js) | Abre los enlaces de Google Maps en Apple Maps (`maps://`). |
 | [pelis-series-fusion.user.js](pelis-series-fusion.user.js) | En IMDb, FilmAffinity, Netflix, Prime Video, Disney+, Max y Filmin toma el título y abre su búsqueda en Fusion. |
