@@ -6,4 +6,4 @@
 // @grant        none
 // ==/UserScript==
 
-location.replace('https://nitter.net' + location.pathname + location.search);
+location.replace('https://nitter.cf' + location.pathname + location.search);
